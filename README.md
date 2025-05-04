@@ -1,13 +1,11 @@
 Got it! Here's the **final, fully formatted `README.md` file**, including all the sections you requested — such as installation steps, folder structure, controls, game logic, and credits — all inside one clean Markdown file:
 
----
 
-````markdown
 # 🏎️ 2D Car Racing Game
 
 A fast-paced, arcade-style 2D car racing game built using **Python** and **Pygame**. Dodge incoming traffic, rack up points, and test your reflexes across four difficulty levels!
 
----
+
 
 ## 📸 Screenshots
 
