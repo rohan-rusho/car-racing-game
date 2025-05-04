@@ -177,7 +177,7 @@ car-racing-game/
 
 **Md. Rohan Islam**  
 📧 `ahmedrohan920@gmail.com`  
-🌐 GitHub: [rohan-rusho](https://github.com/rohan-rusho)
+🌐 GitHub: [rohan-rusho](https://github.com/rohan-rusho/portfolio/blob/main/README.md)
 
 ---
 
