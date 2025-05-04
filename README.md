@@ -8,7 +8,8 @@ A fast-paced, arcade-style 2D car racing game built using **Python** and **Pygam
 
 | Gameplay | Game Over | Menu | Difficulty Options | Scoreboard |
 |----------|-----------|------|--------------------|------------|
-| ![Gameplay](screenshots/screenshot1.png) | ![Game Over](screenshots/screenshot2.png) | ![Menu](screenshots/screenshot3.png) | ![Difficulty](screenshots/screenshot4.png) | ![Scoreboard](screenshots/screenshot5.png) |
+| ![Gameplay](screenshots/screenshots1.png) | ![Game Over](screenshots/screenshots2.png) | ![Menu](screenshots/screenshots3.png) | ![Difficulty](screenshots/screenshots4.png) | ![Scoreboard](screenshots/screenshots5.png) |
+
 
 > 📝 **Note**: Place your screenshots in a folder named `screenshots/` in your project root. Update the file names or paths if you change the names of the images.
 
