@@ -11,13 +11,13 @@ A fast-paced, arcade-style 2D car racing game built using **Python** and **Pygam
 | ![Gameplay](screenshots/screenshots1.png) | ![Game Over](screenshots/screenshots2.png) | ![Menu](screenshots/screenshots3.png) | ![Difficulty](screenshots/screenshots4.png) | ![Scoreboard](screenshots/screenshots5.png) |
 
 
-🎮 Gameplay Manual — 2D Car Racing Game
+# 🎮 Gameplay Manual — 2D Car Racing Game
 Welcome to the ultimate test of reflexes and focus! This manual will guide you through everything you need to know to play and enjoy the 2D Car Racing Game.
 
-📖 Objective
+# 📖 Objective
 Dodge enemy vehicles, survive as long as possible, and beat your high score! The faster you react, the higher you score.
 
-🕹️ Controls
+# 🕹️ Controls
 Action	Key
 Move Left	← Left Arrow
 Move Right	→ Right Arrow
@@ -25,16 +25,16 @@ Navigate Menu	↑ ↓ + Enter
 Restart Game	R
 Quit to Menu	Q
 
-🧩 Game Modes / Difficulty Levels
+# 🧩 Game Modes / Difficulty Levels
 Mode	Enemy Speed	Speed Increase Rate
 Easy	3	0.1
 Normal	5	0.2
 Hard	7	0.3
 Impossible	10	0.5
 
-🧠 Tip: The higher the difficulty, the faster the enemies get — choose wisely!
+# 🧠 Tip: The higher the difficulty, the faster the enemies get — choose wisely!
 
-🧠 Gameplay Rules
+# 🧠 Gameplay Rules
 The game starts at the Main Menu, where you select your desired difficulty.
 
 Your car is positioned at the bottom of the screen and can only move left or right.
@@ -49,7 +49,7 @@ The game tracks and displays your best score using best_score.txt.
 
 From the Game Over screen, you can restart or return to the main menu.
 
-💡 Pro Tips
+# 💡 Pro Tips
 Stay in motion — being static invites crashes.
 
 Use the edges to avoid groups of cars, but be careful not to get cornered.
@@ -58,18 +58,13 @@ Learn spawn patterns and practice switching lanes smoothly.
 
 The Impossible mode is brutal. Make sure you're warmed up!
 
-🔧 Troubleshooting
+# 🔧 Troubleshooting
 Game won’t launch? Ensure pygame is installed via:
 
-bash
-Copy
-Edit
-pip install pygame
-No assets showing? Check the assets/ folder is in the same directory as car_racing_game.py.
 
 Best score not saving? Make sure best_score.txt has write permission.
 
-🏁 Goal
+# 🏁 Goal
 Beat your high score, challenge friends, and master the Impossible mode. Have fun and keep improving!
 
 
