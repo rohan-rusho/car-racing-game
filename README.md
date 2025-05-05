@@ -87,20 +87,18 @@ Beat your high score, challenge friends, and master the Impossible mode. Have fu
 
 1. **Clone this repo:**
 
-```bash
+```
 git clone https://github.com/rohan-rusho/car-racing-game.git
 cd car-racing-game
 ```
 
 2. **Install Pygame (if not already):**
 ```
-```bash
 pip install pygame
 ```
 
 3. **Run the game:**
 ```
-```bash
 python car_racing_game.py
 ```
 
